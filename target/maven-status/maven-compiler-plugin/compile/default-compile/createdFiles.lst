@@ -1,0 +1,14 @@
+alogrithm/EvalModel.class
+alogrithm/SearchModel$2.class
+view/GameView$BoardClickListener.class
+chess/Rules.class
+alogrithm/SearchModel$1.class
+chess/Piece.class
+control/GameController.class
+Main.class
+ChessGame.class
+view/GameView$PieceOnClickListener.class
+view/GameView.class
+chess/Board.class
+alogrithm/AlphaBetaNode.class
+alogrithm/SearchModel.class

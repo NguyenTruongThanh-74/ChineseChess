@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64ba0b19-214d-4b82-bfdc-1f2a1a83b155" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xvw3v9qjF8GhHbDGWDdbvytEXs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/control" />
+      <recent name="$PROJECT_DIR$/src/main/java/view" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ChessGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChessGame" />
+      <module name="ChineseChess" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ChineseChess" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ChessGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64ba0b19-214d-4b82-bfdc-1f2a1a83b155" name="Default Changelist" comment="" />
+      <created>1581939681201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581939681201</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1839" height="278" key="GridCell.Tab.0.bottom" timestamp="1581942311224">
+      <screen x="35" y="27" width="1885" height="1053" />
+    </state>
+    <state width="1839" height="278" key="GridCell.Tab.0.bottom/35.27.1885.1053@35.27.1885.1053" timestamp="1581942311224" />
+    <state width="1839" height="278" key="GridCell.Tab.0.center" timestamp="1581942311222">
+      <screen x="35" y="27" width="1885" height="1053" />
+    </state>
+    <state width="1839" height="278" key="GridCell.Tab.0.center/35.27.1885.1053@35.27.1885.1053" timestamp="1581942311222" />
+    <state width="1839" height="278" key="GridCell.Tab.0.left" timestamp="1581942311221">
+      <screen x="35" y="27" width="1885" height="1053" />
+    </state>
+    <state width="1839" height="278" key="GridCell.Tab.0.left/35.27.1885.1053@35.27.1885.1053" timestamp="1581942311221" />
+    <state width="1839" height="278" key="GridCell.Tab.0.right" timestamp="1581942311223">
+      <screen x="35" y="27" width="1885" height="1053" />
+    </state>
+    <state width="1839" height="278" key="GridCell.Tab.0.right/35.27.1885.1053@35.27.1885.1053" timestamp="1581942311223" />
+    <state x="633" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581939685904">
+      <screen x="35" y="27" width="1885" height="1053" />
+    </state>
+    <state x="633" y="380" key="com.intellij.ide.util.TipDialog/35.27.1885.1053@35.27.1885.1053" timestamp="1581939685904" />
+  </component>
+</project>
